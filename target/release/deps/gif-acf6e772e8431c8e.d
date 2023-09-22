@@ -1,0 +1,13 @@
+/home/baldo/acs/anul1/sem1/pclp/Tema3/target/release/deps/gif-acf6e772e8431c8e.rmeta: /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/home/baldo/acs/anul1/sem1/pclp/Tema3/target/release/deps/libgif-acf6e772e8431c8e.rlib: /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/home/baldo/acs/anul1/sem1/pclp/Tema3/target/release/deps/gif-acf6e772e8431c8e.d: /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md:

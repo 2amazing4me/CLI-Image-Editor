@@ -1,0 +1,12 @@
+/home/baldo/acs/anul1/sem1/pclp/Tema3/target/release/deps/getrandom-df6a48b49b6c4342.rmeta: /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/baldo/acs/anul1/sem1/pclp/Tema3/target/release/deps/libgetrandom-df6a48b49b6c4342.rlib: /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/baldo/acs/anul1/sem1/pclp/Tema3/target/release/deps/getrandom-df6a48b49b6c4342.d: /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs:
+/home/baldo/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs:

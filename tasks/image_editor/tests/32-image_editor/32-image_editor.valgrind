@@ -1,0 +1,15 @@
+==280659== Memcheck, a memory error detector
+==280659== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==280659== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==280659== Command: /home/baldo/acs/anul1/sem1/pclp/Tema3/image_editor
+==280659== Parent PID: 280658
+==280659== 
+==280659== 
+==280659== HEAP SUMMARY:
+==280659==     in use at exit: 0 bytes in 0 blocks
+==280659==   total heap usage: 69,169 allocs, 69,169 frees, 2,848,792,634 bytes allocated
+==280659== 
+==280659== All heap blocks were freed -- no leaks are possible
+==280659== 
+==280659== For lists of detected and suppressed errors, rerun with: -s
+==280659== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
